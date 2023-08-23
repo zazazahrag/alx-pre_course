@@ -1,8 +1,6 @@
 #!/bin/bash
 echo "ALX School is so cool!"
-200~<<<<<<< HEAD
 // content from main branch
 =======
 // content from update_script branch
->>>>>>> update_script
 
